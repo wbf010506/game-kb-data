@@ -12,7 +12,7 @@
     "images": [
       {
         "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_1_1.jpg",
-        "alt": "海神殿长图.png"
+        "alt": "海神殿长图.jpg"
       }
     ]
   },
@@ -34,7 +34,7 @@
     "images": [
       {
         "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_2_2.jpg",
-        "alt": "逆鳞返虚推荐祝福.png"
+        "alt": "逆鳞返虚推荐祝福.jpg"
       }
     ]
   },
@@ -56,7 +56,7 @@
     "images": [
       {
         "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_4_3.jpg",
-        "alt": "金刚.png"
+        "alt": "金刚.jpg"
       }
     ]
   },
@@ -77,8 +77,8 @@
     ],
     "images": [
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_5_4.png",
-        "alt": "金刚.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_5_4.jpg",
+        "alt": "金刚.jpg"
       }
     ]
   },
@@ -97,28 +97,28 @@
     "natural_questions": [],
     "images": [
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_6_5.png",
-        "alt": "金刚.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_6_5.jpg",
+        "alt": "金刚.jpg"
       },
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_6_6.png",
-        "alt": "九幽.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_6_6.jpg",
+        "alt": "九幽.jpg"
       },
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_6_7.png",
-        "alt": "玲珑.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_6_7.jpg",
+        "alt": "玲珑.jpg"
       },
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_6_8.png",
-        "alt": "清虚.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_6_8.jpg",
+        "alt": "清虚.jpg"
       },
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_6_9.png",
-        "alt": "瑶光.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_6_9.jpg",
+        "alt": "瑶光.jpg"
       },
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_6_10.png",
-        "alt": "奕剑.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_6_10.jpg",
+        "alt": "奕剑.jpg"
       }
     ]
   },
@@ -137,28 +137,28 @@
     "natural_questions": [],
     "images": [
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_7_11.png",
-        "alt": "金刚.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_7_11.jpg",
+        "alt": "金刚.jpg"
       },
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_7_12.png",
-        "alt": "九幽.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_7_12.jpg",
+        "alt": "九幽.jpg"
       },
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_7_13.png",
-        "alt": "玲珑.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_7_13.jpg",
+        "alt": "玲珑.jpg"
       },
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_7_14.png",
-        "alt": "清虚.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_7_14.jpg",
+        "alt": "清虚.jpg"
       },
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_7_15.png",
-        "alt": "瑶光.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_7_15.jpg",
+        "alt": "瑶光.jpg"
       },
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_7_16.png",
-        "alt": "奕剑.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_7_16.jpg",
+        "alt": "奕剑.jpg"
       }
     ]
   },
@@ -174,8 +174,8 @@
     ],
     "images": [
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_8_17.png",
-        "alt": "神魂毕业.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_8_17.jpg",
+        "alt": "神魂毕业.jpg"
       }
     ]
   },
@@ -196,8 +196,8 @@
     ],
     "images": [
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_9_18.png",
-        "alt": "九幽.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_9_18.jpg",
+        "alt": "九幽.jpg"
       }
     ]
   },
@@ -218,8 +218,8 @@
     ],
     "images": [
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_10_19.png",
-        "alt": "玲珑.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_10_19.jpg",
+        "alt": "玲珑.jpg"
       }
     ]
   },
@@ -240,8 +240,8 @@
     ],
     "images": [
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_11_20.png",
-        "alt": "清虚.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_11_20.jpg",
+        "alt": "清虚.jpg"
       }
     ]
   },
@@ -262,8 +262,8 @@
     ],
     "images": [
       {
-        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_12_21.png",
-        "alt": "瑶光.png"
+        "url": "https://testingcf.jsdelivr.net/gh/wbf010506/game-kb-data@main/images/img_12_21.jpg",
+        "alt": "瑶光.jpg"
       }
     ]
   }
